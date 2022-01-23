@@ -1,0 +1,26 @@
+/*zenithstylesheet2*/
+body{
+    font-family:sans-serif
+    ;
+    padding-top: -10rem;
+    background-color: rgb(104, 104, 209);
+    ma
+}
+div {
+   border: 10px solid white; 
+   border-width: 50%;
+   margin-top:5rem;
+   border-radius:0.5rem;
+   background-color:white;
+   text-align:center;
+   padding
+}
+small {
+    font-size: 1.2rem;
+}
+h1 {
+    text-align:center;
+}
+.bbb {
+    text-align:center;
+}
